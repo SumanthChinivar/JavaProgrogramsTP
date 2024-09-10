@@ -3,7 +3,7 @@ package collections;
 import java.util.ArrayList;
 
 public class A1 {
-	//added a file
+	//added a file and a comment
 	public static void main(String[] args) {
 		ArrayList a=new ArrayList();//Object
 		a.add(10);
